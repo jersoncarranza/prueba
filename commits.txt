@@ -1,0 +1,17 @@
+commit 7a5b44f9a7355a6766b0d851c5e7d36d4b4f9820
+Author: Jerson Carranza Lucas <jerson_carranza2@hotmail.com>
+Date:   Fri Feb 27 15:26:14 2015 -0500
+
+    3 mas elementos
+
+commit b43db067fead740a50faf4dd4aea2b33be452cf6
+Author: Jerson Carranza Lucas <jerson_carranza2@hotmail.com>
+Date:   Fri Feb 27 15:17:33 2015 -0500
+
+    2 estilos
+
+commit f67a0cebdee68c0e992c816965acecc89ca3a63a
+Author: Jerson Carranza Lucas <jerson_carranza2@hotmail.com>
+Date:   Fri Feb 27 15:07:08 2015 -0500
+
+    1 Archivos bases

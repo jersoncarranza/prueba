@@ -1,0 +1,11 @@
+body{
+	background: black;
+}
+.footer{
+	height: 20em;
+	display: block;
+	background: blue;
+}
+.header{
+	background-color: yellow;
+}
